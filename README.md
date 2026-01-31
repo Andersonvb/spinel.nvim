@@ -1,6 +1,6 @@
 # spinel.nvim
 
-A Neovim colorscheme based on [Shopify's Spinel theme](https://marketplace.visualstudio.com/items?itemName=nicholaschiang.spinel) for VSCode.
+A Neovim colorscheme based on [Shopify's Spinel theme](https://github.com/Shopify/vscode-shopify-ruby/tree/main) for VSCode.
 
 ![spinel.nvim screenshot](assets/screenshot.png)
 
