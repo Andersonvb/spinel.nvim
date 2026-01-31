@@ -2,6 +2,8 @@
 
 A Neovim colorscheme based on [Shopify's Spinel theme](https://marketplace.visualstudio.com/items?itemName=nicholaschiang.spinel) for VSCode.
 
+![spinel.nvim screenshot](assets/screenshot.png)
+
 ## Features
 
 - Carefully crafted color palette matching the original Spinel theme
@@ -30,7 +32,7 @@ A Neovim colorscheme based on [Shopify's Spinel theme](https://marketplace.visua
 
 ```lua
 {
-  "andersonvb/spinel.nvim",
+  "Andersonvb/spinel.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
@@ -41,7 +43,7 @@ A Neovim colorscheme based on [Shopify's Spinel theme](https://marketplace.visua
 
 ```lua
 use {
-  "andersonvb/spinel.nvim",
+  "Andersonvb/spinel.nvim",
   config = function()
     require("spinel").setup()
     vim.cmd.colorscheme("spinel")
@@ -99,7 +101,7 @@ require("spinel").setup({
 ```lua
 return {
   {
-    "andersonvb/spinel.nvim",
+    "Andersonvb/spinel.nvim",
     lazy = false,
     priority = 1000,
     opts = {
