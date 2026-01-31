@@ -1,0 +1,15 @@
+# Neovim
+.netrwhist
+*.swp
+*.swo
+*~
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store
+
+# Tags
+tags
+TAGS
