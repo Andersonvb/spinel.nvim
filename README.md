@@ -162,4 +162,4 @@ After installation, verify the theme is working:
 
 ## License
 
-MIT
+This colorscheme is available as open source under the terms of the [MIT License](LICENSE).
